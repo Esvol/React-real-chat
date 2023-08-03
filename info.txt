@@ -1,0 +1,6 @@
+Right now I have this data (on kinolov3@gmail.com firebase):
+
+email: "viktor@gmail.com", "kamila@gmail.com", "vadim@gmail.com", "oksana@gmail.com", "vlad@gmail.com"
+password: asdasdasd
+
+Password the same for every email!
